@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nicolas Gómez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there👋, I'm Nicolas Gómez</h1>
+<h3 align="center">I'm a passionate software developer with a strong interest in Learn more and secure a job where I can prominently apply my expertise. I'm thrilled to have you visit my GitHub profile, where you'll find a collection of my projects, contributions, and code experiments.
+
+### About Me
+
+I'm a Colombian based developer, I currently have experience in those languague Java, Javascript and those others technologies, REACT, CSS HTML. My journey in the world of programming began Since I was a child, I've always been passionate about how algorithms streamline our processes and save us time. My curiosity to learn more about this led me to delve into the world of development, and since then, I've been on a continuous quest to expand my knowledge and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhairo123&label=Profile%20views&color=0e75b6&style=flat" alt="jhairo123" /> </p>
 
