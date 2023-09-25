@@ -17,7 +17,7 @@ I'm a Colombian based developer, I currently have experience in those languague 
 
 - 📄 Know about my experiences Bootcamp on Ada school as Junior developer full stack
 
-- ⚡ Fun fact **I like write literary works,about me: https://itabooks.com/producto/corazon-herido-relatos-desde-lo-mas-profundo/**
+- ⚡ Fun fact **I like write literary works, you can read about me here: https://itabooks.com/producto/corazon-herido-relatos-desde-lo-mas-profundo/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
