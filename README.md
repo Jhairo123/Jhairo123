@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Nicolas Gómez</h1>
 <h3 align="center">I'm a passionate software developer with a strong interest in Learn more and secure a job where I can prominently apply my expertise. 
+<br>
 I'm thrilled to have you visit my GitHub profile, where you'll find a collection of my projects, contributions, and code experiments.
 
 ### About Me
@@ -16,7 +17,7 @@ I'm a Colombian based developer, I currently have experience in those languague 
 
 - 📄 Know about my experiences Bootcamp on Ada school as Junior developer full stack
 
-- ⚡ Fun fact **I like write literary works,about me:**
+- ⚡ Fun fact **I like write literary works,about me: https://itabooks.com/producto/corazon-herido-relatos-desde-lo-mas-profundo/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
