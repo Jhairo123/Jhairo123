@@ -14,7 +14,7 @@ I'm a Colombian based developer, I currently have experience in those languague 
 
 - 📫 How to reach me **gomez.reyes.jhair@gmail.com**
 
-- 📄 Know about my experiences [Bootcamp on Ada school as Junior developer full stack](Bootcamp on Ada school as Junior developer full stack)
+- 📄 Know about my experiences Bootcamp on Ada school as Junior developer full stack
 
 - ⚡ Fun fact **I like write literary works,about me:**
 
