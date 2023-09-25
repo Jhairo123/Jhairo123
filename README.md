@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nicolas Gómez</h1>
-<h3 align="center">I'm a passionate software developer with a strong interest in Learn more and secure a job where I can prominently apply my expertise. 
-<br>
-I'm thrilled to have you visit my GitHub profile, where you'll find a collection of my projects, contributions, and code experiments.
+<h3 align="center">I'm a passionate software developer with a strong interest in Learn more and secure a job where I can prominently apply my expertise. I'm thrilled to have you visit my GitHub profile, where you'll find a collection of my projects, contributions, and code experiments.
 
 ### About Me
 
