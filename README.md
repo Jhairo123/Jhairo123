@@ -23,7 +23,7 @@ I'm a Colombian based developer, I currently have experience in those languague 
 <p align="left">
 <a href="https://linkedin.com/in/jhair-nicolas-gomez-reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhair-nicolas-gomez-reyes" height="30" width="40" /></a>
 <a href="https://fb.com/Jhairgomy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolas gómez" height="30" width="40" /></a>
-<a href="https://instagram.com/feeling.fredoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feeling.fredoom" height="30" width="40" /></a>
+<a href="https://instagram.com/feeling.freedoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feeling.fredoom" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
